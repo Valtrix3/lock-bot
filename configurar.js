@@ -6,7 +6,7 @@ global.dono = '22898133388'
 
 //informações da figurinha 
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜:\𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛:\+22898133388:'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.author = 'valtrix'
 
 //coloque seu prefixo
 global.prefixo = ["."]
